@@ -1,0 +1,9 @@
+{
+    "path" : "~/Brecha salarial IT/salario en usd por tamano de empresa",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

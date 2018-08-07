@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533604313125.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BD1180D6",
+    "lastKnownWriteTime" : 3410431221432412530,
+    "last_content_update" : 1533604313125,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1CCF8781",
+        "caption" : "salarioshistoricos.promedios",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=salarioshistoricos.promedios&cache_key=1CCF8781",
+        "displayedObservations" : "4",
+        "environment" : "",
+        "object" : "salarioshistoricos.promedios",
+        "preview" : "0",
+        "totalObservations" : "4",
+        "variables" : "4"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
